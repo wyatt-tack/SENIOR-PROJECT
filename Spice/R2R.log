@@ -1,0 +1,47 @@
+Circuit: * C:\Users\Wyatt\Documents\School\SENIOR PROJECT\Spice\R2R.asc
+
+Error on line 75 : .model sky130_fd_pr__pfet_01v8 pmos(l=0.15 w=2 nf=1 ad= 0.58 as= 0.87 pd=4.58 ps= 6.87 nrd= 0.145 nrs= 0.145 sa=0 sb=0 sd=0 mult=1 m=1)
+	* Unrecognized parameter "nf" -- ignored
+Error on line 75 : .model sky130_fd_pr__pfet_01v8 pmos(l=0.15 w=2 nf=1 ad= 0.58 as= 0.87 pd=4.58 ps= 6.87 nrd= 0.145 nrs= 0.145 sa=0 sb=0 sd=0 mult=1 m=1)
+	* Unrecognized parameter "sa" -- ignored
+Error on line 75 : .model sky130_fd_pr__pfet_01v8 pmos(l=0.15 w=2 nf=1 ad= 0.58 as= 0.87 pd=4.58 ps= 6.87 nrd= 0.145 nrs= 0.145 sa=0 sb=0 sd=0 mult=1 m=1)
+	* Unrecognized parameter "sb" -- ignored
+Error on line 75 : .model sky130_fd_pr__pfet_01v8 pmos(l=0.15 w=2 nf=1 ad= 0.58 as= 0.87 pd=4.58 ps= 6.87 nrd= 0.145 nrs= 0.145 sa=0 sb=0 sd=0 mult=1 m=1)
+	* Unrecognized parameter "sd" -- ignored
+Error on line 75 : .model sky130_fd_pr__pfet_01v8 pmos(l=0.15 w=2 nf=1 ad= 0.58 as= 0.87 pd=4.58 ps= 6.87 nrd= 0.145 nrs= 0.145 sa=0 sb=0 sd=0 mult=1 m=1)
+	* Unrecognized parameter "mult" -- ignored
+Error on line 75 : .model sky130_fd_pr__pfet_01v8 pmos(l=0.15 w=2 nf=1 ad= 0.58 as= 0.87 pd=4.58 ps= 6.87 nrd= 0.145 nrs= 0.145 sa=0 sb=0 sd=0 mult=1 m=1)
+	* Unrecognized parameter "m" -- ignored
+Error on line 74 : .model sky130_fd_pr__nfet_01v8 nmos(l=0.15 w=1 nf=1 ad= 0.29 as= 0.435 pd=2.58 ps= 3.87 nrd=0.29 nrs= 0.29 sa=0 sb=0 sd=0 mult=1 m=1)
+	* Unrecognized parameter "nf" -- ignored
+Error on line 74 : .model sky130_fd_pr__nfet_01v8 nmos(l=0.15 w=1 nf=1 ad= 0.29 as= 0.435 pd=2.58 ps= 3.87 nrd=0.29 nrs= 0.29 sa=0 sb=0 sd=0 mult=1 m=1)
+	* Unrecognized parameter "sa" -- ignored
+Error on line 74 : .model sky130_fd_pr__nfet_01v8 nmos(l=0.15 w=1 nf=1 ad= 0.29 as= 0.435 pd=2.58 ps= 3.87 nrd=0.29 nrs= 0.29 sa=0 sb=0 sd=0 mult=1 m=1)
+	* Unrecognized parameter "sb" -- ignored
+Error on line 74 : .model sky130_fd_pr__nfet_01v8 nmos(l=0.15 w=1 nf=1 ad= 0.29 as= 0.435 pd=2.58 ps= 3.87 nrd=0.29 nrs= 0.29 sa=0 sb=0 sd=0 mult=1 m=1)
+	* Unrecognized parameter "sd" -- ignored
+Error on line 74 : .model sky130_fd_pr__nfet_01v8 nmos(l=0.15 w=1 nf=1 ad= 0.29 as= 0.435 pd=2.58 ps= 3.87 nrd=0.29 nrs= 0.29 sa=0 sb=0 sd=0 mult=1 m=1)
+	* Unrecognized parameter "mult" -- ignored
+Error on line 74 : .model sky130_fd_pr__nfet_01v8 nmos(l=0.15 w=1 nf=1 ad= 0.29 as= 0.435 pd=2.58 ps= 3.87 nrd=0.29 nrs= 0.29 sa=0 sb=0 sd=0 mult=1 m=1)
+	* Unrecognized parameter "m" -- ignored
+WARNING: Less than two connections to node 1.8v.  This node is used by v1.
+Direct Newton iteration for .op point succeeded.
+
+Date: Mon Dec  1 18:36:09 2025
+Total elapsed time: 8.155 seconds.
+
+tnom = 27
+temp = 27
+method = modified trap
+totiter = 504921
+traniter = 504902
+tranpoints = 223465
+accept = 182463
+rejected = 41002
+matrix size = 55
+fillins = 2
+solver = Normal
+Avg thread counts: 1.0/1.0/1.0/1.0
+Matrix Compiler1: 2.45 KB object code size  0.8/0.6/[0.3]
+Matrix Compiler2: 4.64 KB object code size  0.7/1.0/[0.4]
+

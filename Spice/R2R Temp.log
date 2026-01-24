@@ -1,0 +1,105 @@
+Circuit: * C:\Users\Wyatt\Documents\School\SENIOR PROJECT\Spice\R2R.asc
+
+Error on line 75 : .model sky130_fd_pr__pfet_01v8 pmos(l=0.15 w=2 nf=1 ad= 0.58 as= 0.87 pd=4.58 ps= 6.87 nrd= 0.145 nrs= 0.145 sa=0 sb=0 sd=0 mult=1 m=1)
+	* Unrecognized parameter "nf" -- ignored
+Error on line 75 : .model sky130_fd_pr__pfet_01v8 pmos(l=0.15 w=2 nf=1 ad= 0.58 as= 0.87 pd=4.58 ps= 6.87 nrd= 0.145 nrs= 0.145 sa=0 sb=0 sd=0 mult=1 m=1)
+	* Unrecognized parameter "sa" -- ignored
+Error on line 75 : .model sky130_fd_pr__pfet_01v8 pmos(l=0.15 w=2 nf=1 ad= 0.58 as= 0.87 pd=4.58 ps= 6.87 nrd= 0.145 nrs= 0.145 sa=0 sb=0 sd=0 mult=1 m=1)
+	* Unrecognized parameter "sb" -- ignored
+Error on line 75 : .model sky130_fd_pr__pfet_01v8 pmos(l=0.15 w=2 nf=1 ad= 0.58 as= 0.87 pd=4.58 ps= 6.87 nrd= 0.145 nrs= 0.145 sa=0 sb=0 sd=0 mult=1 m=1)
+	* Unrecognized parameter "sd" -- ignored
+Error on line 75 : .model sky130_fd_pr__pfet_01v8 pmos(l=0.15 w=2 nf=1 ad= 0.58 as= 0.87 pd=4.58 ps= 6.87 nrd= 0.145 nrs= 0.145 sa=0 sb=0 sd=0 mult=1 m=1)
+	* Unrecognized parameter "mult" -- ignored
+Error on line 75 : .model sky130_fd_pr__pfet_01v8 pmos(l=0.15 w=2 nf=1 ad= 0.58 as= 0.87 pd=4.58 ps= 6.87 nrd= 0.145 nrs= 0.145 sa=0 sb=0 sd=0 mult=1 m=1)
+	* Unrecognized parameter "m" -- ignored
+Error on line 74 : .model sky130_fd_pr__nfet_01v8 nmos(l=0.15 w=1 nf=1 ad= 0.29 as= 0.435 pd=2.58 ps= 3.87 nrd=0.29 nrs= 0.29 sa=0 sb=0 sd=0 mult=1 m=1)
+	* Unrecognized parameter "nf" -- ignored
+Error on line 74 : .model sky130_fd_pr__nfet_01v8 nmos(l=0.15 w=1 nf=1 ad= 0.29 as= 0.435 pd=2.58 ps= 3.87 nrd=0.29 nrs= 0.29 sa=0 sb=0 sd=0 mult=1 m=1)
+	* Unrecognized parameter "sa" -- ignored
+Error on line 74 : .model sky130_fd_pr__nfet_01v8 nmos(l=0.15 w=1 nf=1 ad= 0.29 as= 0.435 pd=2.58 ps= 3.87 nrd=0.29 nrs= 0.29 sa=0 sb=0 sd=0 mult=1 m=1)
+	* Unrecognized parameter "sb" -- ignored
+Error on line 74 : .model sky130_fd_pr__nfet_01v8 nmos(l=0.15 w=1 nf=1 ad= 0.29 as= 0.435 pd=2.58 ps= 3.87 nrd=0.29 nrs= 0.29 sa=0 sb=0 sd=0 mult=1 m=1)
+	* Unrecognized parameter "sd" -- ignored
+Error on line 74 : .model sky130_fd_pr__nfet_01v8 nmos(l=0.15 w=1 nf=1 ad= 0.29 as= 0.435 pd=2.58 ps= 3.87 nrd=0.29 nrs= 0.29 sa=0 sb=0 sd=0 mult=1 m=1)
+	* Unrecognized parameter "mult" -- ignored
+Error on line 74 : .model sky130_fd_pr__nfet_01v8 nmos(l=0.15 w=1 nf=1 ad= 0.29 as= 0.435 pd=2.58 ps= 3.87 nrd=0.29 nrs= 0.29 sa=0 sb=0 sd=0 mult=1 m=1)
+	* Unrecognized parameter "m" -- ignored
+Direct Newton iteration for .op point succeeded.
+.step temp=-25°C
+.step temp=-15°C
+.step temp=-5°C
+.step temp=5°C
+.step temp=15°C
+.step temp=25°C
+.step temp=35°C
+.step temp=45°C
+.step temp=55°C
+.step temp=65°C
+.step temp=75°C
+.step temp=85°C
+
+
+Measurement: voutavg
+  step	RMS(v(v0))	FROM	TO
+     1	1.03048	0	0.00205
+     2	1.02769	0	0.00205
+     3	1.02484	0	0.00205
+     4	1.02195	0	0.00205
+     5	1.01901	0	0.00205
+     6	1.01602	0	0.00205
+     7	1.01297	0	0.00205
+     8	1.00987	0	0.00205
+     9	1.00671	0	0.00205
+    10	1.00349	0	0.00205
+    11	1.00021	0	0.00205
+    12	0.996878	0	0.00205
+
+Measurement: voutmax
+  step	MAX(v(v0))	FROM	TO
+     1	1.76954	0	0.00205
+     2	1.76586	0	0.00205
+     3	1.76213	0	0.00205
+     4	1.75834	0	0.00205
+     5	1.7545	0	0.00205
+     6	1.7506	0	0.00205
+     7	1.74664	0	0.00205
+     8	1.7426	0	0.00205
+     9	1.73849	0	0.00205
+    10	1.7343	0	0.00205
+    11	1.73004	0	0.00205
+    12	1.72571	0	0.00205
+
+Measurement: voutmin
+  step	MIN(v(v0))	FROM	TO
+     1	0.097548	0	0.00205
+     2	0.0912446	0	0.00205
+     3	0.0848337	0	0.00205
+     4	0.0783186	0	0.00205
+     5	0.0717025	0	0.00205
+     6	0.0649883	0	0.00205
+     7	0.0598322	0	0.00205
+     8	0.057066	0	0.00205
+     9	0.0553378	0	0.00205
+    10	0.054302	0	0.00205
+    11	0.053771	0	0.00205
+    12	0.0536428	0	0.00205
+
+
+Date: Tue Nov 11 17:03:47 2025
+Total elapsed time: 100.957 seconds.
+
+tnom = 27
+temp = 85
+method = modified trap
+totiter = 519696
+traniter = 519674
+tranpoints = 223710
+accept = 182663
+rejected = 41047
+matrix size = 55
+fillins = 2
+solver = Normal
+Avg thread counts: 1.0/1.0/1.0/1.0
+Matrix Compiler1: 2.60 KB object code size  0.7/0.5/[0.3]
+Matrix Compiler2: 4.61 KB object code size  0.5/0.7/[0.4]
+

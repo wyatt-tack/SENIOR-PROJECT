@@ -1,0 +1,22 @@
+Circuit: * C:\Users\Wyatt\Documents\School\SENIOR PROJECT\Spice\Draft1.asc
+
+Direct Newton iteration for .op point succeeded.
+
+Date: Sun Jan 11 21:37:07 2026
+Total elapsed time: 0.086 seconds.
+
+tnom = 27
+temp = 27
+method = modified trap
+totiter = 2907
+traniter = 2904
+tranpoints = 1451
+accept = 1383
+rejected = 68
+matrix size = 5
+fillins = 0
+solver = Normal
+Avg thread counts: 1.9/2.9/2.9/1.9
+Matrix Compiler1:       5 opcodes  0.1/[0.1]/0.1
+Matrix Compiler2: 253 bytes object code size  0.1/0.1/[0.1]
+

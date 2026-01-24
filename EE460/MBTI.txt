@@ -1,0 +1,22 @@
+MBTI:
+Wyatt Tack: ENTJ 28,19,47,6
+Riken Thompson: 
+Jack Marshall:
+Cameron Young:
+
+Belbin:
+Coordinator CO = 0
+Shaper SH = 7
+Plant PL = 11
+Monitor Evaluator ME = 5
+Implementer IMP = 13
+Teamworker TW = 3
+Resource Investigator RI = 7
+Completer Finisher CF = 10
+Specialist SP = 14
+
+Top 
+Specialist SP = 14
+Implementer IMP = 13
+Plant PL = 11
+
