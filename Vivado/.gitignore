@@ -6,7 +6,6 @@ SNN_Encoder.sim/
 *.log
 *.pb
 *.str
-*.xpr
 *.cache/
 *.sim/
 *.runs/
