@@ -1,0 +1,12 @@
+SNN_Encoder.cache/
+SNN_Encoder.sim/
+
+*.wdb
+*.jou
+*.log
+*.pb
+*.str
+*.xpr
+*.cache/
+*.sim/
+*.runs/
