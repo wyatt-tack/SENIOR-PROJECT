@@ -1,7 +1,7 @@
 `timescale 1ns / 1ps
 
 
-module multi_spike_mod
+module multispike_mod
     #(parameter WIDTH = 1,
       parameter LENGTH = 12,
       parameter MAX_SPIKES = 16)  // Maximum spikes per sample period
